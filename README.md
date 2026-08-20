@@ -159,11 +159,6 @@ React Interfaces
 Production-ready Applications
 ```
 
-## 📊 GitHub
-
-![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushljhfghj&show_icons=true&theme=transparent&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushljhfghj&layout=compact&theme=transparent&hide_border=true)
-
 ## 🎯 Currently
 
 - 🔍 Looking for AI/ML & Software Engineering internships
