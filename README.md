@@ -1,77 +1,109 @@
-<div align="center">
-
 # Hey, I'm Piyush 👋
 
-**AI/ML Engineer · Full-Stack Developer**  
-*B.Tech CS (AI/ML) · Amity University*
+### AI/ML & Full-Stack Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-rawat-4a39a1310)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rawatpiyush006@gmail.com)
+B.Tech CSE (AI/ML) @ Amity University
 
-</div>
+I build production-oriented AI systems and full-stack applications — from
+semantic search and NLP pipelines to internal tools, automation platforms,
+and scalable web applications.
+
+### 💼 Experience
+
+**Software Engineering Intern — TopUni Group LLC**  
+*Jun 2026 – Aug 2026*
+
+- Built and improved an automated scholarship pipeline covering crawling,
+  extraction, validation, staging, review, and publishing.
+- Developed Discover features including advanced filters, citizenship
+  eligibility, deadline sorting, multi-country support, images, and profile
+  matching.
+- Automated workflows using web scraping, Google Sheets, Supabase, and
+  application logic with live spreadsheet-to-platform synchronization.
+- Improved data quality across 900+ scholarships and 850+ source URLs through
+  URL verification, duplicate detection, deadline normalization, and staging
+  workflows.
+
+**Backend Developer (Contract) — Mulah Moo**  
+*Sep 2025 – Nov 2025*
+
+- Contributed to an internal AI-powered creative talent platform replacing
+  spreadsheet-based recruiter workflows.
+- Built backend services and REST APIs using Node.js, Express, MongoDB,
+  JWT, and Firebase authentication.
+- Contributed to semantic talent search using OpenAI embeddings and Qdrant.
+- Worked on an AI voice-note pipeline using Whisper and GPT-4o-mini for
+  transcription, profiling, and candidate indexing.
+
+### 🚀 Featured Projects
+
+**AI Resume Screening & Candidate Ranking System**
+
+ATS-style candidate ranking using semantic similarity, skill extraction,
+and experience weighting.
+
+`Python` `Sentence Transformers` `FAISS` `Streamlit`
+
+[Live Demo](https://ai-resume-ats-008.streamlit.app/)
+
+**Semantic Book Recommender**
+
+Transformer-based semantic recommendation system using embeddings and
+FAISS with an interactive dashboard.
+
+`Python` `TensorFlow` `FAISS` `Gradio`
+
+**TaskFlow — Production Task Management Platform**
+
+Role-based task management platform with secure APIs, authentication,
+and production deployment.
+
+`Node.js` `Express` `MongoDB` `Firebase`
+
+**Zohan Enterprises**
+
+Full-stack business website developed and deployed for an industrial
+machinery business.
+
+`React` `JavaScript` `Tailwind CSS`
+
+**Holistic Technology**
+
+Business website and backend contact-form system with database integration.
+
+`WordPress` `PHP` `MySQL`
+
+### 🛠️ Tech Stack
+
+**AI / ML**
+
+`Python` `PyTorch` `TensorFlow` `Scikit-learn`
+`Sentence Transformers` `FAISS` `Qdrant`
+
+**LLM / AI Systems**
+
+`OpenAI` `Whisper` `GPT-4o-mini`
+`Embeddings` `Semantic Search` `RAG`
+
+**Backend**
+
+`FastAPI` `Node.js` `Express`
+`REST APIs` `MongoDB` `PostgreSQL` `Supabase`
+
+**Frontend**
+
+`React` `JavaScript` `TypeScript`
+`Tailwind CSS` `Vite`
+
+**Tools & Deployment**
+
+`Git` `GitHub` `Docker` `Vercel` `Render` `Streamlit`
+
+### 📫 Connect
+
+[LinkedIn](YOUR_LINKEDIN_URL) ·
+[Email](YOUR_EMAIL)
 
 ---
 
-I build intelligent software at the intersection of **LLMs, Semantic Search, and full-stack engineering** — from vector retrieval pipelines to production-ready web apps.
-
-> Currently deep into: `RAG Systems` · `AI Agents` · `LLM Applications`
-
----
-
-## 💼 Experience
-
-### Backend Developer (Contract) · Mulah Moo &nbsp;|&nbsp; Sept 2025 – Nov 2025
-- Designed and built a role-based internal task management system
-- Built REST APIs with Node.js & Express for task creation and tracking
-- Implemented JWT + Firebase Auth for secure, role-based access
-- Deployed frontend on Vercel and backend on Render
-
-🔗 [Live Demo](https://taskflow-frontend-nine.vercel.app/)
-
----
-
-## 🚀 Featured Projects
-
-### 🔍 [AI Resume Screening & Candidate Ranking](https://ai-resume-ats-008.streamlit.app/)
-ATS-style ranking system using semantic similarity — not keyword matching.  
-`SentenceTransformers` · `FAISS` · `Streamlit` · `Python`
-
-### 📚 [Semantic Book Recommender](https://github.com/piyushljhfghj)
-LLM-powered retrieval engine with sentiment-aware recommendations.  
-`LangChain` · `FAISS` · `Hugging Face` · `Gradio`
-
-### ✅ [Task Management Platform](https://taskflow-frontend-nine.vercel.app/)
-Role-based task system with secure APIs and JWT auth — built in production.  
-`Node.js` · `Express` · `MongoDB` · `Firebase`
-
----
-
-## 🛠 Tech Stack
-
-**AI / ML** &nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-**LLM & Search** &nbsp;
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
-
-**Backend** &nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Frontend & DevOps** &nbsp;
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
----
-
-<div align="center">
-  <sub>Open to AI/ML internships and collaborations on LLM, RAG, and AI-powered products 🤝</sub>
-</div>
+Open to AI/ML, Backend, and Full-Stack internship opportunities.
