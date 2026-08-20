@@ -27,17 +27,15 @@ Worked on the production scholarship discovery platform.
 **Tech:** Python · TypeScript · Web Scraping · Google Sheets · Supabase · React
 
 ### Backend Developer (Contract) — Mulah Moo
-*Sep 2025 – Nov 2025*
+**Sep 2025 – Nov 2025**
 
-Worked on an AI-powered creative talent platform and internal recruiter tooling.
+- Built a role-based task management system with **Node.js, Express REST APIs, JWT, and Firebase Authentication** for secure task creation, assignment, and tracking.
+- Designed backend workflows for task creation, assignment, status tracking, and role-based access.
+- Deployed the full-stack application using **Vercel and Render**, enabling cloud-based access.
 
-- Built backend systems and REST APIs for internal talent management workflows.
-- Developed semantic talent search using OpenAI embeddings and Qdrant for intelligent candidate retrieval.
-- Built an AI voice-note pipeline using Whisper and GPT-4o-mini for transcription, profiling, and automatic reindexing.
-- Worked on authentication, role-based access control, audit logging, and asynchronous processing.
-- Designed systems with scalability in mind for 50K+ candidate records.
+**Tech:** Node.js · Express.js · REST APIs · JWT · Firebase Authentication · Vercel · Render
 
-**Tech:** Python · Flask · PostgreSQL · OpenAI · Qdrant · Whisper · GPT-4o-mini · REST APIs
+🔗 **Live Demo:** https://taskflow-frontend-nine.vercel.app/login
 
 ## 🚀 Featured Projects
 
@@ -54,6 +52,23 @@ An ATS-style candidate evaluation system using semantic similarity rather than s
 **Tech:** Python · Sentence Transformers · FAISS · NLP · Streamlit
 
 🔗 [Live Demo](https://ai-resume-ats-008.streamlit.app/) · 💻 [Repository](https://github.com/piyushljhfghj/ai-resume-ats)
+
+### 🧠 Mulah Moo — AI-Powered Creative Talent Platform
+
+**Internal / Collaborative Project**
+
+Production internal talent platform built to replace spreadsheet-based recruiter workflows with scalable candidate management and AI-powered talent discovery.
+
+- Built a production internal talent platform using **Retool, Flask, and PostgreSQL**, replacing spreadsheet-based recruiter workflows.
+- Designed the system with scalability in mind for **50K+ candidate records**.
+- Developed **semantic talent search** using OpenAI embeddings and Qdrant for intelligent candidate retrieval.
+- Built an AI voice-note pipeline using **Whisper and GPT-4o-mini** for transcription, candidate profiling, and automatic reindexing.
+- Worked on recruiter workflows, candidate management, search, filtering, and internal tooling.
+- Contributed directly to the collaborative codebase and made commits across the project.
+
+**Tech:** Retool · Flask · Python · PostgreSQL · OpenAI · Qdrant · Whisper · GPT-4o-mini · Semantic Search · Embeddings
+
+🔒 **Internal / Collaborative Project — Repository not publicly available**
 
 ### 📚 Semantic Book Recommender
 
