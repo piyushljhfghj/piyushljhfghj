@@ -10,6 +10,8 @@ Currently focused on **AI/ML and Software Engineering internships**, while build
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Piyush%20Rawat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-rawat-4a39a1310/)
 [![GitHub](https://img.shields.io/badge/GitHub-piyushljhfghj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piyushljhfghj)
+[![Gmail](https://img.shields.io/badge/Gmail-rawatpiyush006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rawatpiyush006@gmail.com)
+[![Reddit](https://img.shields.io/badge/Reddit-Constant__Ease__8854-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Constant_Ease_8854/)
 
 ## 💼 Experience
 
@@ -159,6 +161,10 @@ React Interfaces
 Production-ready Applications
 ```
 
+## 📊 GitHub
+
+Check out my repositories and activity directly on [github.com/piyushljhfghj](https://github.com/piyushljhfghj).
+
 ## 🎯 Currently
 
 - 🔍 Looking for AI/ML & Software Engineering internships
@@ -171,4 +177,4 @@ Production-ready Applications
 
 If you're working on an AI product, automation system, semantic search application, or full-stack platform, feel free to connect.
 
-[LinkedIn](https://www.linkedin.com/in/piyush-rawat-4a39a1310/) · [GitHub](https://github.com/piyushljhfghj)
+[LinkedIn](https://www.linkedin.com/in/piyush-rawat-4a39a1310/) · [GitHub](https://github.com/piyushljhfghj) · [Gmail](mailto:rawatpiyush006@gmail.com) · [Reddit](https://www.reddit.com/user/Constant_Ease_8854/)
