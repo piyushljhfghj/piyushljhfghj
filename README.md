@@ -4,7 +4,7 @@
 
 B.Tech CSE (AI/ML) student at Amity University, building intelligent software at the intersection of AI, semantic search, backend engineering, and full-stack development. I work with Python, FastAPI, React, Node.js, NLP, LLMs, vector search, and modern databases to build production-oriented applications, internal tools, and AI-powered systems.
 
-Currently focused on AI/ML internships, software engineering opportunities, and AI-powered products.
+Currently focused on **AI/ML and Software Engineering internships**, while building AI-powered applications, automation systems, and production-oriented software.
 
 ## 🔗 Connect
 
@@ -66,6 +66,19 @@ An end-to-end semantic recommendation system using transformer-based embeddings 
 
 **Tech:** Python · Transformers · FAISS · LangChain · Gradio
 
+### 🏢 Zohan Enterprises
+
+Modern business website developed for Zohan Enterprises with a responsive interface focused on company and product presentation.
+
+- Developed responsive company and product pages.
+- Built a clean business-focused interface.
+- Implemented frontend interactions and website structure.
+- Integrated PHP-based functionality where required.
+
+**Tech:** HTML · CSS · JavaScript · PHP
+
+🔗 [Live Website](https://zohanenterprises.com/) · 💻 [Repository](https://github.com/piyushljhfghj/zohan-enterprises)
+
 ### 🏭 Holistic Technology
 
 Industrial manufacturing website developed for Holistic Technology.
@@ -80,26 +93,30 @@ Industrial manufacturing website developed for Holistic Technology.
 
 🔗 [Live Website](https://www.htechllp.com/) · 💻 [Repository](https://github.com/piyushljhfghj/holistic-technology)
 
-### 🏢 Zohan Enterprises
-
-Modern business website developed for Zohan Enterprises with a responsive interface focused on company and product presentation.
-
-- Developed responsive company and product pages.
-- Built a clean business-focused interface.
-- Implemented frontend interactions and website structure.
-- Integrated PHP-based functionality where required.
-
-**Tech:** HTML · CSS · JavaScript · PHP
-
-🔗 [Live Website](https://zohanenterprises.com/) · 💻 [Repository](https://github.com/piyushljhfghj/zohan-enterprises)
-
 ## 🧠 AI / ML
 
-Python · PyTorch · TensorFlow · Scikit-learn · Hugging Face · Sentence Transformers · NLP · Semantic Search · Embeddings · FAISS · Qdrant · LangChain · LLM Applications · RAG Systems · AI Pipelines
+**Languages & Frameworks**
+Python · PyTorch · TensorFlow · Scikit-learn
+
+**NLP & LLMs**
+Hugging Face · Sentence Transformers · NLP · LLM Applications · RAG Systems
+
+**Search & Retrieval**
+Semantic Search · Embeddings · FAISS · Qdrant · LangChain
+
+**AI Engineering**
+AI Pipelines · Retrieval Systems · Model Integration
 
 ## ⚙️ Backend
 
-FastAPI · Flask · Node.js · Express.js · REST APIs · PostgreSQL · MongoDB · MySQL · Supabase · JWT Authentication · RBAC · Async Processing
+**Frameworks**
+FastAPI · Flask · Node.js · Express.js
+
+**Databases**
+PostgreSQL · MongoDB · MySQL · Supabase
+
+**Engineering**
+REST APIs · JWT Authentication · RBAC · Async Processing
 
 ## 💻 Frontend
 
@@ -129,7 +146,8 @@ Production-ready Applications
 
 ## 📊 GitHub
 
-Check out my repositories and activity directly on [github.com/piyushljhfghj](https://github.com/piyushljhfghj).
+![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushljhfghj&show_icons=true&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushljhfghj&layout=compact&theme=transparent&hide_border=true)
 
 ## 🎯 Currently
 
