@@ -20,6 +20,7 @@ Currently focused on **AI/ML internships, software engineering opportunities, an
 ## 💼 Experience
 
 ### Software Engineering Intern — TopUni Group LLC
+
 **Jun 2026 – Aug 2026**
 
 Worked on the production scholarship discovery platform.
@@ -35,6 +36,7 @@ Worked on the production scholarship discovery platform.
 ---
 
 ### Backend Developer (Contract) — Mulah Moo
+
 **Sep 2025 – Nov 2025**
 
 Worked on an AI-powered creative talent platform and internal recruiter tooling.
@@ -85,11 +87,11 @@ An end-to-end semantic recommendation system using transformer-based embeddings 
 
 Industrial manufacturing website developed for Holistic Technology.
 
-- Responsive product and company presentation.
-- Product showcase pages and business information.
-- Inquiry/contact form functionality.
-- PHP backend with MySQL integration.
-- Responsive frontend across desktop and mobile.
+- Built responsive product and company presentation pages.
+- Developed product showcase pages covering industrial machinery and solutions.
+- Implemented inquiry/contact form functionality.
+- Built PHP backend functionality with MySQL integration.
+- Developed responsive interfaces across desktop and mobile.
 
 **Tech:** PHP · MySQL · HTML · CSS · JavaScript
 
@@ -101,6 +103,11 @@ Industrial manufacturing website developed for Holistic Technology.
 ### 🏢 Zohan Enterprises
 
 Modern business website developed for Zohan Enterprises with a responsive interface focused on company and product presentation.
+
+- Developed responsive company and product pages.
+- Built a clean business-focused interface.
+- Implemented frontend interactions and website structure.
+- Integrated PHP-based functionality where required.
 
 **Tech:** HTML · CSS · JavaScript · PHP
 
@@ -173,6 +180,8 @@ Modern business website developed for Zohan Enterprises with a responsive interf
 
 ## 📌 What I Build
 
+I enjoy taking an idea from **data → model → API → interface → deployment**.
+
 ```text
 AI / ML Systems
       ↓
@@ -187,24 +196,17 @@ React Interfaces
 Production-ready Applications
 
 
-## 📊 GitHub
+📊 GitHub
 
-![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushljhfghj&show_icons=true&theme=transparent&hide_border=true)
+● 🎯 Currently
+● 🔍 Looking for AI/ML & Software Engineering internships
+● 🤖 Building AI-powered applications and internal tools
+● 🧠 Exploring RAG, semantic search, LLM applications, and AI agents
+● 💻 Improving production backend and full-stack engineering skills
+● 🤝 Open to interesting AI, automation, and software projects
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushljhfghj&layout=compact&theme=transparent&hide_border=true)
+💬 Let's Build Something Useful
 
----
+If you're working on an AI product, automation system, semantic search application, or full-stack platform, feel free to connect.
 
-## 🎯 Currently
 
-- 🔍 Looking for **AI/ML & Software Engineering internships**
-- 🤖 Building AI-powered applications and internal tools
-- 🧠 Exploring **RAG, semantic search, LLM applications, and AI agents**
-- 💻 Improving production backend and full-stack engineering skills
-- 🤝 Open to interesting AI, automation, and software projects
-
-## 💬 Let's Build Something Useful
-
-If you're working on an **AI product, automation system, semantic search application, or full-stack platform**, feel free to connect.
-
-[LinkedIn](https://www.linkedin.com/in/piyush-rawat-4a39a1310/) · [GitHub](https://github.com/piyushljhfghj)
