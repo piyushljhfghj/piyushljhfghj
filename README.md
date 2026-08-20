@@ -1,109 +1,145 @@
 # Hey, I'm Piyush 👋
 
-### AI/ML & Full-Stack Developer
+### AI/ML Engineer · Full-Stack Developer
 
-B.Tech CSE (AI/ML) @ Amity University
+**B.Tech CSE (AI/ML) · Amity University**
 
-I build production-oriented AI systems and full-stack applications — from
-semantic search and NLP pipelines to internal tools, automation platforms,
-and scalable web applications.
+I build production-oriented **AI/ML systems, semantic search pipelines, and full-stack applications** — from NLP and LLM-powered workflows to internal tools, automation platforms, and scalable web applications.
 
-### 💼 Experience
+Currently focused on **AI systems, semantic search, RAG, backend engineering, and applied machine learning.**
 
-**Software Engineering Intern — TopUni Group LLC**  
-*Jun 2026 – Aug 2026*
+---
 
-- Built and improved an automated scholarship pipeline covering crawling,
-  extraction, validation, staging, review, and publishing.
-- Developed Discover features including advanced filters, citizenship
-  eligibility, deadline sorting, multi-country support, images, and profile
-  matching.
-- Automated workflows using web scraping, Google Sheets, Supabase, and
-  application logic with live spreadsheet-to-platform synchronization.
-- Improved data quality across 900+ scholarships and 850+ source URLs through
-  URL verification, duplicate detection, deadline normalization, and staging
-  workflows.
+## 💼 Experience
 
-**Backend Developer (Contract) — Mulah Moo**  
-*Sep 2025 – Nov 2025*
+### Software Engineering Intern · TopUni Group LLC
+**Jun 2026 – Aug 2026**
 
-- Contributed to an internal AI-powered creative talent platform replacing
-  spreadsheet-based recruiter workflows.
-- Built backend services and REST APIs using Node.js, Express, MongoDB,
-  JWT, and Firebase authentication.
-- Contributed to semantic talent search using OpenAI embeddings and Qdrant.
-- Worked on an AI voice-note pipeline using Whisper and GPT-4o-mini for
-  transcription, profiling, and candidate indexing.
+Contributed to the production scholarship discovery platform and automation infrastructure.
 
-### 🚀 Featured Projects
+- Built and improved automated workflows for **crawling, extraction, validation, staging, review, and publishing**.
+- Developed Discover features including **advanced filters, citizenship eligibility, deadline sorting, multi-country support, images, and profile matching**.
+- Automated scholarship workflows using **web scraping, Google Sheets, Supabase, and application logic**.
+- Improved data quality through **URL verification, duplicate detection, deadline normalization, and staging workflows** across **900+ scholarships and 850+ source URLs**.
 
-**AI Resume Screening & Candidate Ranking System**
+### Backend Developer · Mulah Moo
+**Sep 2025 – Nov 2025 · Contract**
 
-ATS-style candidate ranking using semantic similarity, skill extraction,
-and experience weighting.
+Contributed to an AI-powered internal creative talent platform designed to replace spreadsheet-based recruiter workflows.
 
-`Python` `Sentence Transformers` `FAISS` `Streamlit`
+- Developed backend services and REST APIs using **Node.js, Express, MongoDB, JWT, and Firebase**.
+- Contributed to **semantic talent search** using OpenAI embeddings and Qdrant.
+- Worked on an AI voice-note pipeline using **Whisper and GPT-4o-mini** for transcription, profiling, and candidate indexing.
+- Contributed to production-oriented internal tooling and scalable talent workflows.
 
-[Live Demo](https://ai-resume-ats-008.streamlit.app/)
+---
 
-**Semantic Book Recommender**
+## 🚀 Featured Projects
 
-Transformer-based semantic recommendation system using embeddings and
-FAISS with an interactive dashboard.
+### 🧠 AI Resume Screening & Candidate Ranking
 
-`Python` `TensorFlow` `FAISS` `Gradio`
+ATS-style candidate ranking system using semantic similarity, skill extraction, and experience weighting.
 
-**TaskFlow — Production Task Management Platform**
+**Stack:** `Python` `Sentence Transformers` `FAISS` `Streamlit`
 
-Role-based task management platform with secure APIs, authentication,
-and production deployment.
+🔗 [Live Demo](https://ai-resume-ats-008.streamlit.app/)  
+🔗 [Repository](https://github.com/piyushljhfghj/ai-resume-ats)
 
-`Node.js` `Express` `MongoDB` `Firebase`
+---
 
-**Zohan Enterprises**
+### 📚 Semantic Book Recommender
 
-Full-stack business website developed and deployed for an industrial
-machinery business.
+End-to-end semantic recommendation system using transformer-based embeddings and FAISS with an interactive recommendation dashboard.
 
-`React` `JavaScript` `Tailwind CSS`
+**Stack:** `Python` `Transformers` `FAISS` `Gradio`
 
-**Holistic Technology**
+🔗 [Repository](#)
 
-Business website and backend contact-form system with database integration.
+---
 
-`WordPress` `PHP` `MySQL`
+### ✅ TaskFlow
 
-### 🛠️ Tech Stack
+Production-oriented task management platform with role-based access, secure REST APIs, authentication, and full-stack deployment.
 
-**AI / ML**
+**Stack:** `Node.js` `Express` `MongoDB` `Firebase` `React`
 
-`Python` `PyTorch` `TensorFlow` `Scikit-learn`
+🔗 [Frontend](#)  
+🔗 [Backend](#)
+
+---
+
+### 🏭 Zohan Enterprises
+
+Responsive business website developed and deployed for an industrial machinery company.
+
+**Stack:** `React` `JavaScript` `Tailwind CSS` `Vite`
+
+🔗 [Live Website](#)  
+🔗 [Repository](#)
+
+---
+
+### 🌐 Holistic Technology
+
+Business website with backend integration for contact form processing and database storage.
+
+**Stack:** `WordPress` `PHP` `MySQL`
+
+🔗 [Live Website](#)  
+🔗 [Repository](#)
+
+---
+
+## 🛠️ Tech Stack
+
+**AI / Machine Learning**
+
+`Python` `PyTorch` `TensorFlow` `Scikit-learn`  
 `Sentence Transformers` `FAISS` `Qdrant`
 
-**LLM / AI Systems**
+**LLM & AI Systems**
 
-`OpenAI` `Whisper` `GPT-4o-mini`
-`Embeddings` `Semantic Search` `RAG`
+`OpenAI` `Whisper` `Embeddings`  
+`Semantic Search` `RAG` `NLP`
 
 **Backend**
 
-`FastAPI` `Node.js` `Express`
+`FastAPI` `Node.js` `Express`  
 `REST APIs` `MongoDB` `PostgreSQL` `Supabase`
 
 **Frontend**
 
-`React` `JavaScript` `TypeScript`
+`React` `JavaScript` `TypeScript`  
 `Tailwind CSS` `Vite`
 
-**Tools & Deployment**
+**Deployment & Tools**
 
-`Git` `GitHub` `Docker` `Vercel` `Render` `Streamlit`
-
-### 📫 Connect
-
-[LinkedIn](YOUR_LINKEDIN_URL) ·
-[Email](YOUR_EMAIL)
+`Git` `GitHub` `Docker`  
+`Vercel` `Render` `Streamlit`
 
 ---
 
-Open to AI/ML, Backend, and Full-Stack internship opportunities.
+## 🎯 What I'm Building
+
+I'm interested in building practical AI systems that connect **machine learning with real-world software**.
+
+Currently exploring:
+
+- 🤖 LLM Applications
+- 🔎 Semantic Search & RAG
+- 🧠 AI Agents
+- ⚙️ AI Automation
+- 🚀 Production ML Systems
+- 🏗️ Scalable Backend Architecture
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Piyush%20Rawat-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+---
+
+### Open to AI/ML · Backend · Full-Stack Internship Opportunities
